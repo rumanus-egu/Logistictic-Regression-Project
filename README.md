@@ -1,4 +1,4 @@
-# Logistictic-Regression-Project
+# Logistic-Regression-Project
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 #Project Introduction
 -In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
